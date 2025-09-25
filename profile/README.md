@@ -16,7 +16,7 @@ We take inspiration from **TempleOS** and **Linux**, but our goal is to build ou
 We aim to create a functional OS:  
 - Custom bootloader  
 - Kernel with process and memory management  
-- Simple filesystem  
+- filesystem  
 - Basic Unix-style utilities  
 
 ---
